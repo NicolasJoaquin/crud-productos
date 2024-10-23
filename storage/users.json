@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Nicolas Diorio",
+        "username": "nico.diorio@gmail.com",
+        "role": "admin",
+        "password": "contraseniaSecreta"
+    },
+    {
+        "id": 2,
+        "name": "Jorge Lopez",
+        "username": "jorge.lopez@gmail.com",
+        "role": "normal_user",
+        "password": "contraseniaSegura"
+    }
+]

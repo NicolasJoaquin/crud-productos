@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Producto del Challenge",
+        "price": "2000.00",
+        "created_at": "2022-12-13 10:41"
+    },
+    {
+        "id": 2,
+        "title": "Tuercas de 3\/8''",
+        "price": "50.65",
+        "created_at": "2024-10-23 20:42"
+    },
+    {
+        "id": 3,
+        "title": "Llave Inglesa",
+        "price": "150.00",
+        "created_at": "2023-02-10 14:30"
+    },
+    {
+        "id": 4,
+        "title": "Tornillos para Madera",
+        "price": "30.25",
+        "created_at": "2024-01-15 09:15"
+    },
+    {
+        "id": 5,
+        "title": "Martillo de Carpintero",
+        "price": "450.00",
+        "created_at": "2023-05-20 11:45"
+    },
+    {
+        "id": 6,
+        "title": "Taladro El\u00e9ctrico",
+        "price": "1200.00",
+        "created_at": "2024-07-07 16:00"
+    },
+    {
+        "id": 7,
+        "title": "Sierra Circular",
+        "price": "2500.00",
+        "created_at": "2024-09-12 08:50"
+    },
+    {
+        "id": 8,
+        "title": "Cinta M\u00e9trica 5m",
+        "price": "80.99",
+        "created_at": "2023-11-29 13:22"
+    },
+    {
+        "id": 9,
+        "title": "Destornillador Philips",
+        "price": "40.50",
+        "created_at": "2023-08-05 19:30"
+    },
+    {
+        "id": 10,
+        "title": "Juego de Llaves Allen",
+        "price": "220.75",
+        "created_at": "2024-03-18 12:55"
+    },
+    {
+        "id": 11,
+        "title": "Alicate de Corte",
+        "price": "175.20",
+        "created_at": "2023-06-25 17:10"
+    },
+    {
+        "id": 12,
+        "title": "Cuchillo de Uso General",
+        "price": "95.30",
+        "created_at": "2024-05-22 14:38"
+    },
+    {
+        "id": 13,
+        "title": "Pistola de Silicona",
+        "price": "210.00",
+        "created_at": "2023-09-30 10:05"
+    }
+]
