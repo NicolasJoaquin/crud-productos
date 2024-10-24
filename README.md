@@ -87,16 +87,16 @@ Todos los eventos de la aplicación, incluyendo errores y warnings, se registran
    composer install
    ```
 
-   3. Configurar el archivo `.env` con tu JWT_SECRET:
+3. Configurar el archivo `.env` con tu JWT_SECRET:
 
    ```bash
    JWT_SECRET=clave_secreta
    ```
 
-   4. Iniciar el servidor:
+4. Iniciar el servidor:
 
    ```bash
    php artisan serve
    ```
 
-   5. Acceder a la aplicación desde un navegador en `http://localhost:8000/login.html`.
+5. Acceder a la aplicación desde un navegador en `http://localhost:8000/login.html`.
